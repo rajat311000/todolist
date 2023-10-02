@@ -41,13 +41,10 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 - [MongoDb](https://mongoosejs.com/)
 - [expressJs](https://expressjs.com/)
 
-## Author
-
-- LinkedIn - [Rahul Singh Yadav](https://www.linkedin.com/in/rahul-yadav-73624614a/)
-
+=
 
 ## Acknowledgments
 
 This project is done by me from scratch by refering to the above websites .
 ## Deployed Link
--[TODO APP](https://gentle-hollows-01032.herokuapp.com/)
+https://todo-kpr7.onrender.com
